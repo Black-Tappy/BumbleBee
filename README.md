@@ -12,11 +12,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+Redmi-+XMD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+🅑r̸𝐢𝖌𝖍t̸_×͜×+MD+TECHS;RELEASED+DATE+21%2F7%2F2025."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-🅑r̸𝐢𝖌𝖍t̸_×͜×-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Redmi-XMD-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Black-Tappy"><img title="Author" src="https://img.shields.io/badge/🅑r̸𝐢𝖌𝖍t̸_×͜×-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254759000349"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Black-Tappy"><img title="Author" src="https://img.shields.io/badge/Redmi-XMD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254759000349"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
@@ -95,4 +95,4 @@
 
  <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
-
+https://pin.it/6WtjZoNG8
