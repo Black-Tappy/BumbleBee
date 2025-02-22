@@ -95,6 +95,8 @@
 
  <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
-![84c1e380e7232869194c8f21e0da70b2](https://github.com/user-attachments/assets/75ee4dce-332e-4751-a776-3f9a47755cc0)
+
+
+https://github.com/user-attachments/assets/8eb6326a-b40e-4bbd-b424-434e7cb238ce
 
 
